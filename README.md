@@ -1,6 +1,6 @@
 <!-- Slide number: 1 -->
 
-![Kagetane Hiruko](Image4.jpg)
+![Kagetane Hiruko]([Image4.jpg](https://fity.club/lists/suggestions/Black-Bullet-Wallpaper-Kagetane/))
 # The Magician
 
 ## Par Tomoiaga Eliza
