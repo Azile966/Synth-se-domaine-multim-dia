@@ -13,26 +13,25 @@
 # Analyse des besoins
 
 **Public cible**
-- Adolescents et jeunes adultes (15-25 ans)
+Type: Série animée
+DuréeL 20 épisodes de 20-25 minutes
+
+- **Adolescents et jeunes adultes** (15-25 ans)
 - Fans d'animation et de super-héros
-- Intéréssés par des récits matures et nuancés
+- Intéréssés par des récits **matures, sombres et nuancés**
 
 **Ce qui est important pour eux**
 
-- Héros et héroïnes credibles et attachants, avec des motivations claires
-- Suspense et intrigue qui tiennent en haleine
-- Univers immersif et direction artistique marquée
-- Violence et enjeux moraux traités de manière réaliste, pas simpliste
+- Personnages **credibles et attachants**, avec des motivations claires
+- **Suspense et intrigue** qui tiennent en haleine
+- Univers immersif et **direction artistique marquée**
+- **Violence et enjeux moraux traités de manière réaliste**, pas simpliste
 - Expériences visuelles et sonores fortes : magie, action, ambiance Gotham
 
 **Opportunité visée**
 
-- Problème : Les récits de super-héros pour ce public sont souvent manichéens, peu de femmes anti-héros et très peu de récits explorant les dilemmes moraux.
-- Opportunité : Créer une série animée qui combine action, magie, suspense et questionnements éthiques, offrant un univers immersif et original pour capter un public mature déjà intéressé par les comics et l’animation.
-- Adolescents et jeunes adultes (15–25 ans)
-- Fans d’animation et de super-héros
-- Intéressés par des récits matures, sombres et nuancés
-- Utilisateurs sensibles à des personnages complexes et à des dilemmes moraux
+- **Problème**: Peu de femmes anti-héros et très peu de récits explorant les dilemmes moraux.
+- Opportunité : Créer une série animée qui combine action, magie, suspense et questionnements éthiques, offrant un **univers immersif et original** pour capter un public mature déjà intéressé par les comics et l’animation.
 
 <!-- Slide number: 3 -->
 
@@ -68,9 +67,7 @@ Attentes du public cible
 <!-- Slide number: 4 -->
 # Moodboard
 
-```
-<img src="moodboard.png" alt="moodboard" width="300">
-```
+![Moodboard](moodboard.png)
 
 <!-- Slide number: 5 -->
 
