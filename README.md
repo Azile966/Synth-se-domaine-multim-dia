@@ -68,7 +68,9 @@ Attentes du public cible
 <!-- Slide number: 4 -->
 # Moodboard
 
-![moodboard](moodboard.png)
+```
+<img src="moodboard.png" alt="moodboard" width="300">
+```
 
 <!-- Slide number: 5 -->
 
