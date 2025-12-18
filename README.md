@@ -1,6 +1,7 @@
 <!-- Slide number: 1 -->
 
-![Kagetane Hiruko][([Image4.jpg]()](https://fity.club/lists/suggestions/Black-Bullet-Wallpaper-Kagetane/)
+![Kagetane Hiruko](https://wallpapercave.com/wp/wp9428666.jpg)
+![Logo Technique d,intégration multimédia](https://www.cmontmorency.qc.ca/wp-content/uploads/2020/11/TIM_logo-767x518.jpg)
 # The Magician
 
 ## Par Tomoiaga Eliza
