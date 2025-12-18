@@ -5,7 +5,8 @@
 # The Magician
 
 ## Par Tomoiaga Eliza
-Black Bullet Wallpaper Kagetane Kagetane Hiruko Wallpapers Wallpaper
+
+[Kagetane Hiruko Wallpaper](https://fity.club/lists/suggestions/Black-Bullet-Wallpaper-Kagetane/)
 
 <!-- Slide number: 2 -->
 
