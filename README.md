@@ -127,13 +127,14 @@ Symbolique
 - Tentation du pouvoir
 - Corruption morale
 - Perte d’identité
-**Objet narratif secondaire (les cartes)**
-- Message indirect pour une alliance avec Red Hood
-- Signature du The Magician après ses interventions
 
 ![Kagetane Hiruko masque](https://m.media-amazon.com/images/I/41LXhxTqRHL._AC_SL400_.jpg)
 
 [Anime Black Bullet Kagetane Hiruko Smile Face Mask Canada | Ubuy](https://www.ubuy.ca/en/product/7VBWDQBEQ-anime-black-bullet-kagetane-hiruko-cosplay-mask-halloween-prop-accessories?ref=hm-google-redirect)
+
+**Objet narratif secondaire (les cartes)**
+- Message indirect pour une alliance avec Red Hood
+- Signature du The Magician après ses interventions
 
 ![Carte de The Magician](Image16.jpg)
 
