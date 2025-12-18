@@ -17,7 +17,7 @@
 - Fans d'animation et de super-héros
 - Intéréssés par des récits matures et nuancés
 
-**Important**
+**Ce qui est important pour eux**
 
 - Héros et héroïnes credibles et attachants, avec des motivations claires
 - Suspense et intrigue qui tiennent en haleine
