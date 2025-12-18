@@ -68,7 +68,8 @@ Attentes du public cible
 <!-- Slide number: 4 -->
 # Moodboard
 
-![moodboard](Image5.jpg)
+![moodboard](<img width="1920" height="1080" alt="conception_synthèse copie" src="https://github.com/user-attachments/assets/0e57e895-96b8-43b1-a776-ca1c9caee66a" />
+)
 
 <!-- Slide number: 5 -->
 
