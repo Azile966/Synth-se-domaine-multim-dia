@@ -99,7 +99,7 @@ Sophia Brown
 ![Annie Leonhart](https://criticalhits.com.br/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2021/04/Annie-Leonhart-910x512.jpg.webp)
 [Attack on Titan - Fã imaginou como seria o visual da Annie na vida real](https://criticalhits.com.br/anime/attack-on-titan-fa-imaginou-como-seria-o-visual-da-annie-na-vida-real/)
 The Magician
-![Kagetane Hiruko](https://blackbullet.fandom.com/wiki/Kagetane_Hiruko?file=Char_Kagetane.png)
+![Kagetane Hiruko](https://static.wikia.nocookie.net/blackbullet2/images/1/16/Char_Kagetane.png/revision/latest?cb=20140419181919)
 [Kagetane Hiruko | Black Bullet Wiki | Fandom](https://blackbullet.fandom.com/wiki/Kagetane_Hiruko)
 
 <!-- Slide number: 7 -->
