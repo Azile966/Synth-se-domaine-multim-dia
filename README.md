@@ -123,7 +123,7 @@ The Magician
 - Activation par le sang (+ de sang = plus de chances de prendre le dessus sur l’âme du porteur)
 - Permet des incantations magiques
 
-- **Symbolique**
+Symbolique
 - Tentation du pouvoir
 - Corruption morale
 - Perte d’identité
