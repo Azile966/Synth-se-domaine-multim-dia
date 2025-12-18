@@ -151,6 +151,7 @@ Photoshop
 **Deuxième tiers**
 
 - Révélation du passé de Sophia
+- Apparition de Red Hood
 - Intensification de la violence
 - Influence grandissante du masque
 
