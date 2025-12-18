@@ -87,9 +87,6 @@ Chaque utilisation de la magie --> coût moral et physique
 
 # Personnage principal
 
-![Kagetane Hiruko](Image5.jpg)
-
-![Annie Leonhart](Image10.jpg)
 Nom: Sophia Brown
 Âge: 20 ans
 Origine: Gotham City, USA
@@ -99,8 +96,10 @@ Motivation
 - Protéger les innocents
 
 Sophia Brown
+![Annie Leonhart](https://criticalhits.com.br/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2021/04/Annie-Leonhart-910x512.jpg.webp)
 [Attack on Titan - Fã imaginou como seria o visual da Annie na vida real](https://criticalhits.com.br/anime/attack-on-titan-fa-imaginou-como-seria-o-visual-da-annie-na-vida-real/)
 The Magician
+![Kagetane Hiruko](https://blackbullet.fandom.com/wiki/Kagetane_Hiruko?file=Char_Kagetane.png)
 [Kagetane Hiruko | Black Bullet Wiki | Fandom](https://blackbullet.fandom.com/wiki/Kagetane_Hiruko)
 
 <!-- Slide number: 7 -->
@@ -127,7 +126,7 @@ The Magician
 - Message indirect pour une alliance avec Red Hood
 - Signature du The Magician après ses interventions
 
-![Kagetane Hiruko masque](Image14.jpg)
+![Kagetane Hiruko masque](https://m.media-amazon.com/images/I/41LXhxTqRHL._AC_SL400_.jpg)
 [Anime Black Bullet Kagetane Hiruko Smile Face Mask Canada | Ubuy](https://www.ubuy.ca/en/product/7VBWDQBEQ-anime-black-bullet-kagetane-hiruko-cosplay-mask-halloween-prop-accessories?ref=hm-google-redirect)
 
 ![Carte de The Magician](Image16.jpg)
